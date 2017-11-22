@@ -1,0 +1,6 @@
+{
+  "name": "webpack-sensible",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "license": "MIT"
+}
